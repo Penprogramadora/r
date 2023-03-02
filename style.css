@@ -1,0 +1,24 @@
+.heading{
+font: size 23px;
+width:100%;
+margin:5px;
+box-shadow:7px 7px 7px black ;
+}
+body{
+    background-color:rgb(7, 255, 243) ;
+}
+.headingDiv {
+ float: none ;
+background: rgb(18, 158, 146) ; 
+padding: 10px;
+border-radius: 20px;
+color: rgb(6, 100, 100);
+box-shadow:5px 5px 5px black;
+ }
+ .headingDiv2 {
+font-size: 18px ;
+} 
+.result_para_tag {
+ box-shadow:5px 5px 5px black;
+ font-size: 20px; 
+}
